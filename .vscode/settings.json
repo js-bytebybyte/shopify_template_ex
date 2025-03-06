@@ -1,0 +1,7 @@
+{
+    "[liquid]": {
+        "editor.wordWrap": "on",
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true
+    }
+}
