@@ -4,4 +4,10 @@
         "editor.formatOnPaste": true,
         "editor.formatOnSave": true
     }
+    {
+    "tailwindCSS.includeLanguages": {
+          "plaintext": "html"
+        }
+    }
+      
 }
